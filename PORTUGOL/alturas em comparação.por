@@ -19,7 +19,7 @@ programa {
 
     escreva("João é maior que Maria!")
 
-  } //se(altura2 > altura1)
+  } //se(altura1 < altura2)
 
   senao { 
 
